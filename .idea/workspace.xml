@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9aad20f9-429d-4589-ae39-fdc94ddbc3a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Alien_invasion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bullets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/alien.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/space_ship.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/space_ship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_stats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space_ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/space_ship.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +41,8 @@
     &quot;Python.alien_invasion.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Markel/Desktop/mi_repo/Jupyter_notebook&quot;
   }
 }</component>
   <component name="RecentsManager">
