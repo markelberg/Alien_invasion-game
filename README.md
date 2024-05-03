@@ -1,2 +1,3 @@
 # Alien_invasion-game
-Creating my own alien invasion game using pygame library
+Creating my own 'Alien Invasion' game using pygame library
+
